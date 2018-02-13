@@ -1,2 +1,2 @@
-# yggk.io
+# YGGK-Website
 web
